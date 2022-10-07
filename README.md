@@ -1,7 +1,5 @@
 
 ## Goldenhs müzik bot
-ananı avradını sikiyim yeter artık sonunda çalıştı
-burayı okuyorsan kesin hacklendik amk
-kopirayt Dvargean
+Sonunda çalışan bir discord müzikbotu :D
 ## Goldenhs müzik bot
 
